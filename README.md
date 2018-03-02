@@ -1,3 +1,3 @@
-# Girls Who Code - Pixar Animation Studios
+# 2048 - Web Game
+Girls Who Code - Pixar Animation Studios
 Summer 2015
-2048 web game
